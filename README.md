@@ -58,10 +58,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://github.com/KartikTotlani/KartikTotlani/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
-
----
-
 <p align="center">✨ Crafted with passion, learning and lots of debugging ✨</p>
