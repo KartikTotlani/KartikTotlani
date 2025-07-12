@@ -9,7 +9,7 @@
 - 🏆 2nd @ AIT Pune CTF | 19th @ IIT Bombay CTF | 97th @ VIIT Intl. CTF
 - 💬 Ask me about: React, Python, Golang, Cloud Deployments, Power BI, etc.
 - 📧 Reach me at: **totlanikartik@gmail.com**
-- 🌐 Portfolio: [https://voked.life](https://voked.life)
+- 🌐 Portfolio: [Kartik Totlani](https://portfolio-totlanikartik.vercel.app/)
 
 ---
 
