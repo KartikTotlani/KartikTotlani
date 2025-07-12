@@ -10,7 +10,7 @@
 - 💬 Ask me about: React, Python, Golang, Cloud Deployments, Power BI, etc.
 - 📧 Reach me at: **totlanikartik@gmail.com**
 - 🌐 Portfolio: [Kartik Totlani](https://portfolio-totlanikartik.vercel.app/)
-- 📊 LeetCode: [totlanikartik].(https://leetcode.com/u/totlanikartik/)
+- 📊 LeetCode: [totlanikartik](https://leetcode.com/u/totlanikartik/)
 
 ---
 
